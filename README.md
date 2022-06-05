@@ -1,5 +1,8 @@
 # Sim-App
-Front-End Angular com Bootstrap e Web Api ASP .Net </br>
+
+Still in development...
+
+Front-End Angular with Bootstrap and Web Api ASP .Net </br>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
